@@ -1,4 +1,9 @@
-### Hi there 👋
+##### Hi there 👋
+
+My name is Weston Ludeke and I'm currently learning computer programming. By day I work at Streak doing support, helping our customers and communicating bug reports between our clients and our engineering team.
+
+During my free time I'm a student at Launch School using the Ruby language to learn software engineering. 
+
 
 <!--
 **westonludeke/westonludeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
