@@ -1,6 +1,6 @@
 Howdy! 👋
 
-My name is Weston Ludeke and I'm currently learning computer programming. By day I work at [Streak](https://streak.com) remotely from Houston doing support, helping our customers and documenting bug reports for our engineering team. During my free time I'm a student at [Launch School](https://launchschool.com) using the Ruby language to learn software engineering. 
+My name is Weston Ludeke and I'm currently learning computer programming. By day I work at [Streak](https://streak.com) remotely from Houston doing support, helping our customers and documenting bug reports for our engineering team. During my free time I'm a student at [Launch School](https://launchschool.com) learning software engineering. 
 
 You can read more about my experiences learning programming as a student at Launch School [on Medium](https://westonludeke.medium.com). You can view my full blog as well as my projects on my personal blog [westonludeke.com](https://westonludeke.com). You can also connect with me on [LinkedIn](https://westonludeke.com) and [AngelList](https://angel.co/u/westonludeke) and view my [StackOverflow](https://stackoverflow.com/users/5137112/weston).
 
