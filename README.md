@@ -1,4 +1,4 @@
-Howdy! 👋
+Howdy! 
 
 My name is Weston Ludeke and I'm currently learning computer programming. By day I work at [Streak](https://streak.com) remotely from Houston doing support, helping our customers and documenting bug reports for our engineering team. During my free time I'm a student at [Launch School](https://launchschool.com) learning software engineering. 
 
