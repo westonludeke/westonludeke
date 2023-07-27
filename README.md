@@ -6,7 +6,7 @@ Beginning in January 2020, I was a student at [Launch School](https://launchscho
 
 ### Contact Me
 
-You can read more about my experiences learning programming, as well as view my projects, on my personal blog [westonludeke.com](https://westonludeke.com). You can also connect with me on [LinkedIn](https://westonludeke.com) and [AngelList](https://angel.co/u/westonludeke) and view my [StackOverflow](https://stackoverflow.com/users/5137112/weston).
+You can read more about my experiences learning programming, as well as view my projects, on my personal blog [westonludeke.com](https://westonludeke.com) and my [Medium blog](https://westonludeke.medium.com/). You can also connect with me on [LinkedIn](https://linkedin.com/in/westonludeke).
 
 
 <!--
