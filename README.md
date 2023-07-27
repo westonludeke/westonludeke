@@ -1,12 +1,14 @@
-Hello World! My name is Weston Ludeke and I'm a software engineer. 
+## Hello World! I'm Weston 👋 
 
-### About Me
+Beginning in January 2020, I was a student at [Launch School](https://launchschool.com) where I utilized the techniques of Mastery Based Learning to help me along the road towards mastery of the fundamentals of software engineering. After 1700+ hours of studying over 3.5 years while still working at my day job, I finished Launch School’s core curriculum in summer 2023. 
 
-Beginning in January 2020, I was a student at [Launch School](https://launchschool.com) where I utilized the techniques of Mastery Based Learning to help me along the road towards mastery of the fundamentals of software engineering. After 1700+ hours of studying over 3.5 years while still working at my day job, I finished Launch School’s core curriculum in summer 2023. Today, I’m proficient in Javascript, Mongo, Express, React, JSX, Node, Ruby, Sinatra, jQuery, HTML, CSS, Bootstrap, SQL, Postgres, APIs, & Google Apps Script.
+### Stack
+
+Javascript, Mongo, Express, React, JSX, Node, Ruby, Sinatra, jQuery, HTML, CSS, Bootstrap, SQL, Postgres, APIs, & Google Apps Script.
 
 ### Contact Me
 
-You can read more about my experiences learning programming, as well as view my projects, on my personal blog [westonludeke.com](https://westonludeke.com) and my [Medium blog](https://westonludeke.medium.com/). You can also connect with me on [LinkedIn](https://linkedin.com/in/westonludeke).
+You can read more about my experiences learning programming, as well as view my projects, on my personal blog [westonludeke.com](https://westonludeke.com) and on [Medium](https://westonludeke.medium.com/). You can also connect with me on [LinkedIn](https://linkedin.com/in/westonludeke).
 
 
 <!--
