@@ -4,7 +4,7 @@ Beginning in January 2020, I was a student at [Launch School](https://launchscho
 
 ### Stack
 
-Javascript, Mongo, Express, React, JSX, Node, Ruby, Sinatra, jQuery, HTML, CSS, Bootstrap, SQL, Postgres, APIs, & Google Apps Script.
+Javascript, Mongo, Express, React, JSX, Node, Ruby, Sinatra, jQuery, HTML, CSS, Bootstrap, SQL, Postgres, RESTful APIs, Jest, Cypress, & Google Apps Script.
 
 ### Contact Me
 
