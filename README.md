@@ -1,10 +1,12 @@
 ## Hello World! I'm Weston 👋 
 
-Beginning in January 2020, I was a student at [Launch School](https://launchschool.com) where I utilized the techniques of Mastery Based Learning to help me along the road towards mastery of the fundamentals of software engineering. After 1700+ hours of studying over 3.5 years while still working at my day job, I finished Launch School’s core curriculum in summer 2023. 
+Beginning in January 2020, I was a student at [Launch School](https://launchschool.com) where I utilized the techniques of Mastery Based Learning to help me along the road towards mastery of the fundamentals of software engineering. After 1700+ hours of studying over 3.5 years while still working at my day job, I finished Launch School’s core curriculum in summer 2023.
+
+In January of 2024 I will be starting Launch School's [capstone program](https://public.launchschool.com/capstone) which is full-time over the next 4-5 months.
 
 ### Stack
 
-Javascript, Mongo, Express, React, JSX, Node, Ruby, Sinatra, jQuery, HTML, CSS, Bootstrap, SQL, Postgres, RESTful APIs, Jest, Cypress, & Google Apps Script.
+Javascript, Typescript, Ruby, Express, React, Node, JSX, Mongo, Sinatra, jQuery, HTML, CSS, Bootstrap, SQL, Postgres, RESTful APIs, Jest, Cypress, & Google Apps Script.
 
 ### Contact Me
 
