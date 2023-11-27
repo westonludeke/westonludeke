@@ -6,7 +6,7 @@ In January of 2024 I will be starting Launch School's [capstone program](https:/
 
 ### Stack
 
-Javascript, Typescript, Ruby, Express, React, Node, JSX, Mongo, Sinatra, jQuery, HTML, CSS, Bootstrap, SQL, Postgres, RESTful APIs, Jest, Cypress, & Google Apps Script.
+Javascript, Typescript, Ruby, Golang, Express, React, Node, JSX, Mongo, Sinatra, jQuery, HTML, CSS, Bootstrap, SQL, Postgres, RESTful APIs, Jest, Cypress, & Google Apps Script.
 
 ### Contact Me
 
