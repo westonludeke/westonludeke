@@ -1,8 +1,10 @@
 ## Hello World! I'm Weston 👋 
 
-Beginning in January 2020, I was a student at [Launch School](https://launchschool.com) where I utilized the techniques of Mastery Based Learning to help me along the road towards mastery of the fundamentals of software engineering. After 1700+ hours of studying over 3.5 years while still working at my day job, I finished Launch School’s core curriculum in summer 2023.
+I'm a Full Stack Software Engineer with a passion for lifelong learning and growth. I've worked in the tech industry for more than a decade at small VC-backed startups in Silicon Valley as well as at large publicly traded companies.
 
-In January of 2024, I will be starting Launch School's [capstone program](https://public.launchschool.com/capstone) which is full-time over the next 4-5 months.
+Prior to learning software engineering, I worked in customer-facing roles such as Support, Account Management, and Sales. In these customer roles, I spent many years serving as a liaison between customers and engineering teams, translating engineer-speak to customers and vice-versa.
+
+When I'm not in front of the computer, I'm most likely reading a book or learning languages. 
 
 ### Programming Stack:
 
