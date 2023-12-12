@@ -2,11 +2,19 @@
 
 Beginning in January 2020, I was a student at [Launch School](https://launchschool.com) where I utilized the techniques of Mastery Based Learning to help me along the road towards mastery of the fundamentals of software engineering. After 1700+ hours of studying over 3.5 years while still working at my day job, I finished Launch School’s core curriculum in summer 2023.
 
-In January of 2024 I will be starting Launch School's [capstone program](https://public.launchschool.com/capstone) which is full-time over the next 4-5 months.
+In January of 2024, I will be starting Launch School's [capstone program](https://public.launchschool.com/capstone) which is full-time over the next 4-5 months.
 
-### Stack
+### Programming Stack:
 
-Javascript, Typescript, Ruby, Golang, Express, React, Node, JSX, Mongo, Sinatra, jQuery, HTML, CSS, Bootstrap, SQL, Postgres, RESTful APIs, Jest, Cypress, & Google Apps Script.
+| Category              | Technologies                                  |
+|-----------------------|-----------------------------------------------|
+| Programming Languages | JavaScript, TypeScript, Ruby, Go (Golang)     |
+| Web Development       | Express, React, Node.js, JSX, Sinatra, jQuery, HTML, CSS, Bootstrap |
+| Databases             | MongoDB, SQL, PostgreSQL                     |
+| Cloud Services        | Digital Ocean, Amazon Web Services (AWS)     |
+| Containerization      | Docker                                       |
+| APIs and Testing      | RESTful APIs, Jest, Cypress                  |
+| Scripting             | Google Apps Script                           |
 
 ### Contact Me
 
