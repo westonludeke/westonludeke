@@ -12,7 +12,7 @@ When I'm not in front of the computer, I'm most likely reading a book or learnin
 |-----------------------|-----------------------------------------------|
 | Programming Languages | JavaScript, TypeScript, Ruby, Go (Golang)     |
 | Web Development       | Express, React, Node.js, JSX, Sinatra, jQuery, HTML, CSS, Bootstrap |
-| Databases             | MongoDB, SQL, PostgreSQL                     |
+| Databases             | MongoDB, SQL, PostgreSQL, SQLite                    |
 | Cloud Services        | Digital Ocean, Amazon Web Services (AWS)     |
 | Containerization      | Docker                                       |
 | APIs and Testing      | RESTful APIs, Jest, Cypress                  |
