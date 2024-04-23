@@ -1,13 +1,20 @@
 ## Hello World! I'm Weston 👋 
 
-I'm a Full Stack Software Engineer with a passion for lifelong learning and growth. I've worked in the tech industry for more than a decade at small VC-backed startups in Silicon Valley as well as at large publicly traded companies. 
+I am a Full Stack Software Engineer based in Houston, Texas. Recently I built [Campfire](https://campfire-previews.github.io), an open-source, self-hosted deploy preview solution for containerized, headless frontends
+
+I have over a decade of tech industry experience, including at multiple VC-backed Silicon Valley startups
+
+[Click here to view my resume](https://westonludeke.github.io)
+
+[Click here to view the Campfire case study](https://campfire-previews.github.io)
+
 
 ### Programming Stack:
 
 | Category              | Technologies                                  |
 |-----------------------|-----------------------------------------------|
 | Programming Languages | JavaScript, TypeScript, Ruby, Go (Golang)     |
-| Web Development       | Express, React, Node.js, JSX, Sinatra, jQuery, HTML, CSS, Bootstrap |
+| Web Development       | Express, React, Node.js, JSX, Sinatra, Material UI, jQuery, HTML, CSS, Bootstrap |
 | Databases             | MongoDB, SQL, PostgreSQL, SQLite                    |
 | Cloud Services        | Digital Ocean, Amazon Web Services (AWS)     |
 | Containerization      | Docker                                       |
