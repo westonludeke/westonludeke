@@ -1,13 +1,14 @@
 ## Hello World! I'm Weston 👋 
 
-I am a Full Stack Software Engineer based in Houston, Texas. Recently I built [Campfire](https://campfire-previews.github.io), an open-source, self-hosted deploy preview solution for containerized, headless frontends
+I am a Full Stack Software Engineer based in Houston, Texas. I have over a decade of tech industry experience, including at multiple VC-backed Silicon Valley startups
 
-I have over a decade of tech industry experience, including at multiple VC-backed Silicon Valley startups
+Recently, I built [Campfire](https://campfire-previews.github.io), an open-source, self-hosted deploy preview solution for containerized, headless frontends
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/939133109?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Campfire"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+[Click here to view Campfire](https://campfire-previews.github.io)
 
 [Click here to view my resume](https://westonludeke.github.io)
-
-[Click here to view the Campfire case study](https://campfire-previews.github.io)
-
 
 ### Programming Stack:
 
@@ -18,8 +19,9 @@ I have over a decade of tech industry experience, including at multiple VC-backe
 | Databases             | MongoDB, SQL, PostgreSQL, SQLite                    |
 | Cloud Services        | Digital Ocean, Amazon Web Services (AWS)     |
 | Containerization      | Docker                                       |
-| APIs and Testing      | RESTful APIs, Jest, Cypress                  |
+| APIs and Testing      | RESTful APIs, Jest, Cypress, RSpec, Minitest                  |
 | Scripting             | Google Apps Script                           |
+| Writing               | Documentation, technical blog posts, READMEs, knowledge base articles            |
 
 <!-- ### Contact Me
 
