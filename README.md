@@ -4,7 +4,9 @@ I am a Full Stack Software Engineer based in Houston, Texas. I have over a decad
 
 Recently, I built [Campfire](https://campfire-previews.github.io), an open-source, self-hosted deploy preview solution for containerized, headless frontends
 
-[![Campfire](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fvimeo.com%2F939133109)](https://vimeo.com/939133109)
+<video src="https://vimeo.com/939133109" />
+<video src="https://github.com/rayytsn9/ROBOTT/assets/79029536/62f541aa-aa8c-43f5-9ead-4b7a2e0d7c2a" width="300" />
+
 
 [Click here to view Campfire](https://campfire-previews.github.io)
 
