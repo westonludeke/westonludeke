@@ -2,7 +2,7 @@
 
 I am a Full Stack Software Engineer based in Houston, Texas. I have over a decade of tech industry experience, including at multiple VC-backed Silicon Valley startups
 
-Recently, I built [Campfire](https://campfire-previews.github.io), an open-source, self-hosted deploy preview solution for containerized, headless frontends
+Most recently, I developed [Campfire](https://campfire-previews.github.io), an open-source tool that enhances CI/CD pipelines by providing self-hosted, dedicated preview environments for containerized applications, complete with integrated feedback capabilities, allowing team members to comment directly on deploy previews.
 
 [Click here to view Campfire](https://campfire-previews.github.io)
 
@@ -12,14 +12,15 @@ Recently, I built [Campfire](https://campfire-previews.github.io), an open-sourc
 
 | Category              | Technologies                                  |
 |-----------------------|-----------------------------------------------|
-| Programming Languages | JavaScript, TypeScript, Ruby, Go (Golang)     |
+| Programming Languages | JavaScript, TypeScript, Ruby, Go (Golang), Python, PHP     |
 | Web Development       | Express, React, Node.js, JSX, Sinatra, Material UI, jQuery, HTML, CSS, Bootstrap |
 | Databases             | MongoDB, SQL, PostgreSQL, SQLite                    |
 | Cloud Services        | Digital Ocean, Amazon Web Services (AWS)     |
 | Containerization      | Docker                                       |
 | APIs and Testing      | RESTful APIs, Jest, Cypress, RSpec, Minitest                  |
 | Scripting             | Google Apps Script                           |
-| Writing               | Documentation, technical blog posts, READMEs, knowledge base articles            |
+| Writing               | Documentation, technical blog posts, READMEs, knowledge base articles, Markdown, Wordpress, Medium            |
+| Other                 | WebSockets, BigQuery, Postman, Zapier, IFTTT, Stripe                           |
 
 <!-- ### Contact Me
 
