@@ -18,9 +18,8 @@ Most recently, I developed [Campfire](https://campfire-previews.github.io), an o
 | Cloud Services        | Digital Ocean, Amazon Web Services (AWS)     |
 | Containerization      | Docker                                       |
 | APIs and Testing      | RESTful APIs, Jest, Cypress, RSpec, Minitest                  |
-| Scripting             | Google Apps Script                           |
 | Writing               | Documentation, technical blog posts, READMEs, knowledge base articles, Markdown, Wordpress, Medium            |
-| Other                 | WebSockets, BigQuery, Postman, Zapier, IFTTT, Stripe                           |
+| Other                 | WebSockets, Google Apps Script, BigQuery, Postman, Zapier, IFTTT, Stripe API                          |
 
 <!-- ### Contact Me
 
