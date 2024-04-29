@@ -13,7 +13,7 @@ Most recently, I developed [Campfire](https://campfire-previews.github.io), an o
 | Category              | Technologies                                  |
 |-----------------------|-----------------------------------------------|
 | Programming Languages | JavaScript, TypeScript, Ruby, Go (Golang), Python, PHP     |
-| Web Development       | Express, React, Node.js, JSX, Sinatra, Material UI, jQuery, HTML, CSS, Bootstrap |
+| Web Development       | Express, React, Node.js, JSX, Sinatra, Material UI, jQuery, HTML5, CSS, Bootstrap |
 | Databases             | MongoDB, SQL, PostgreSQL, SQLite                    |
 | Cloud Services        | Digital Ocean, Amazon Web Services (AWS)     |
 | Containerization      | Docker                                       |
