@@ -1,12 +1,10 @@
 ## Hello World! I'm Weston 👋 
 
-Building the future of AI at Pythagora. I have over a decade of tech industry experience, including at multiple VC-backed Silicon Valley startups.
+Building the future of AI as the first DevRel hire at Pythagora (YC W24). I have over a decade of tech industry experience, including at multiple VC-backed Silicon Valley startups.
 
-Most recently, I developed [Campfire](https://campfire-previews.github.io), an open-source tool that enhances CI/CD pipelines by providing self-hosted, dedicated preview environments for containerized applications, complete with integrated feedback capabilities, allowing team members to comment directly on deploy previews.
+Before joining Pythagora, I developed [Campfire](https://campfire-previews.github.io), an open-source tool that enhances CI/CD pipelines by providing self-hosted, dedicated preview environments for containerized applications, complete with integrated feedback capabilities, allowing team members to comment directly on deploy previews.
 
 [Click here to view Campfire](https://campfire-previews.github.io)
-
-[Click here to view my resume](https://westonludeke.github.io)
 
 ### Programming Stack:
 
