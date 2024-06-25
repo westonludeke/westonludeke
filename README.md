@@ -1,6 +1,6 @@
 ## Hello World! I'm Weston 👋 
 
-I am a Software Engineer based in Houston, Texas. I have over a decade of tech industry experience, including at multiple VC-backed Silicon Valley startups.
+Building the future of AI at Pythagora. I have over a decade of tech industry experience, including at multiple VC-backed Silicon Valley startups.
 
 Most recently, I developed [Campfire](https://campfire-previews.github.io), an open-source tool that enhances CI/CD pipelines by providing self-hosted, dedicated preview environments for containerized applications, complete with integrated feedback capabilities, allowing team members to comment directly on deploy previews.
 
