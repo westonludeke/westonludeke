@@ -1,40 +1,22 @@
-## Hello World! I'm Weston 👋 
+## Hey, I'm Weston 👋  
 
-Building the future of AI as the first DevRel hire at Pythagora (YC W24). I have over a decade of tech industry experience, including at multiple VC-backed Silicon Valley startups.
+I'm a technical operator with 10+ years in the tech industry and leadership experience across customer-facing teams. Most recently, I was the first customer-facing hire at Pythagora (YC W24), where I built and led the company’s DevRel, support, documentation, and community efforts.
 
-Before joining Pythagora, I developed [Campfire](https://campfire-previews.github.io), an open-source tool that enhances CI/CD pipelines by providing self-hosted, dedicated preview environments for containerized applications, complete with integrated feedback capabilities, allowing team members to comment directly on deploy previews.
+I build tools, write docs, and help developers become power users.  
+Before Pythagora, I developed [Campfire](https://campfire-previews.github.io), an open-source tool for self-hosted CI/CD preview environments. It lets team members comment directly on deploy previews and streamlines cross-functional feedback.
 
-[Click here to view Campfire](https://campfire-previews.github.io)
+👉 [Click here to explore Campfire](https://campfire-previews.github.io)
 
-### Programming Stack:
+---
+
+### 🛠️ Tech Stack
 
 | Category              | Technologies                                  |
 |-----------------------|-----------------------------------------------|
-| Programming Languages | JavaScript, TypeScript, Ruby, Go (Golang), Python, PHP     |
-| Web Development       | Express, React, Node.js, JSX, Sinatra, Material UI, jQuery, HTML5, CSS, Bootstrap |
-| Databases             | MongoDB, SQL, PostgreSQL, SQLite                    |
-| Cloud Services        | Digital Ocean, Amazon Web Services (AWS)     |
-| Containerization      | Docker                                       |
-| APIs and Testing      | RESTful APIs, Jest, Cypress, RSpec, Minitest                  |
-| Writing               | Documentation, technical blog posts, READMEs, knowledge base articles, Markdown, Wordpress, Medium            |
-| Other                 | WebSockets, Google Apps Script, BigQuery, Postman, Zapier, IFTTT, Stripe API                          |
-
-<!-- ### Contact Me
-
-You can read more about my experiences learning programming, as well as view my projects, on my personal blog [westonludeke.com](https://westonludeke.com) and on [Medium](https://westonludeke.medium.com/). You can also connect with me on [LinkedIn](https://linkedin.com/in/westonludeke). -->
-
-
-<!--
-**westonludeke/westonludeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Languages             | JavaScript, Python, Ruby, Go, TypeScript, PHP |
+| Web Dev               | React, Express, Node.js, Sinatra, JSX, HTML, CSS, Bootstrap, Material UI, jQuery |
+| Databases             | PostgreSQL, MongoDB, SQLite, SQL              |
+| Infrastructure        | AWS, Digital Ocean, Docker, Nginx             |
+| APIs & Testing        | REST APIs, Stripe API, WebSockets, Jest, Cypress, RSpec, Minitest |
+| Developer Tools       | Git/GitHub, Google Apps Script, Postman, Zapier, IFTTT, BigQuery |
+| Writing               | Documentation, tutorials, READMEs, blog posts, Markdown, Medium, knowledge base articles |
