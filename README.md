@@ -15,6 +15,14 @@ I thrive in early-stage environments working directly with founders, and I love 
 - **[Ragtime](https://github.com/westonludeke/ragtime)** – A minimalist internal RAG chatbot built with JavaScript, Chroma, and OpenAI. Designed to help engineers query technical documentation using natural language.
 
 - **[Kernel AI Job Application Agent](https://github.com/westonludeke/kernel-job-agent)** – AI-powered job application agent that automates the entire job application process. Built using Kernel, Playwright, OpenAI, TypeScript, and Node.
+
+### ✍️ DevRel Content
+
+* [**Fair Source Blog Post**](https://blog.pythagora.ai/pythagora-supports-fair-source) – Ghostwrote this launch post for Pythagora CEO to announce Pythagora's new licensing model and its implications for open-source sustainability.
+* [**Demo Video**](https://www.youtube.com/watch?v=B5aNMI5wDFY) – Developer-focused walkthrough of our auto-generated apps feature. Straight to the point, zero fluff.
+* [**Campfire Case Study**](https://campfire-previews.github.io) – Wrote the technical case study for an open-source deploy preview tool I co-built with three engineers.
+* [**Software Engineering Blog Post**](https://medium.com/launch-school/dont-learn-a-programming-language-learn-software-engineering-7068f4cb7e57) – Popular post (10k+ views) for aspiring engineers, explaining why fundamentals matter more than trendy languages.
+
 ---
 
 ### 🛠️ Tech Stack
