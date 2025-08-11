@@ -21,7 +21,7 @@ I thrive in early-stage environments working directly with founders, and I love 
 * [**Fair Source Blog Post**](https://blog.pythagora.ai/pythagora-supports-fair-source) – Ghostwrote this launch post for Pythagora CEO to announce Pythagora's new licensing model and its implications for open-source sustainability.
 * [**Demo Video**](https://www.youtube.com/watch?v=B5aNMI5wDFY) – Developer-focused walkthrough of our auto-generated apps feature. Straight to the point, zero fluff.
 * [**Campfire Case Study**](https://campfire-previews.github.io) – Wrote the technical case study for an open-source deploy preview tool I co-built with three engineers.
-* [**Software Engineering Blog Post**](https://medium.com/launch-school/dont-learn-a-programming-language-learn-software-engineering-7068f4cb7e57) – Popular post (10k+ views) for aspiring engineers, explaining why fundamentals matter more than trendy languages.
+* [**Don't Learn a Programming Language. Learn Software Engineering**](https://medium.com/launch-school/dont-learn-a-programming-language-learn-software-engineering-7068f4cb7e57) – A personal blog post (10k+ views) for aspiring engineers, explaining why learning the fundamentals of software engineering matters more than focusing on specific languages.
 
 ---
 
