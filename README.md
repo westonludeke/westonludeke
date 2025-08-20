@@ -10,6 +10,8 @@ I thrive in early-stage environments working directly with founders, and I love 
 
 ### 🧠 Projects
 
+- **[Job Scout](https://github.com/westonludeke/jobscout)** - Automated job search platform using TypeScript, Node.js, Browserbase Stagehand SDK with GPT-4o-mini for AI-powered web scraping of multiple job boards, automatically creating leads in Streak CRM with configurable CLI interface and intelligent field mapping.
+
 - **[Campfire](https://campfire-previews.github.io)** – An open-source framework for self-hosted CI/CD preview environments. It lets teams comment directly on deploy previews and streamlines cross-functional feedback. Built with a team of four engineers. I also [wrote the technical case study](https://campfire-previews.github.io).
 
 - **[Ragtime](https://github.com/westonludeke/ragtime)** – A minimalist internal RAG chatbot built with JavaScript, Chroma, and OpenAI. Designed to help engineers query technical documentation using natural language.
