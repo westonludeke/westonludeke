@@ -2,11 +2,15 @@
 
 10+ years in startups working at the intersection of users and engineers.
 
-First customer-facing hire at Pythagora (YC W24). Owned everything user facing: support, marketing, social media, documentation + READMEs, youtube demos, influencer campaigns, built full-stack demo applications, wrote blog posts, etc.
+At Pythagora (YC W24), I was the first customer-facing hire and built Developer Relations from the ground up, owning support, documentation, community, marketing, and developer content. I wrote blog posts and READMEs, shipped full-stack demo apps, created YouTube tutorials, and partnered with the founders to shape the product roadmap through user feedback.
 
-Before that, I spent 7 years at Streak (YC S11) doing technical support and internal tooling. I mentored teammates, ran 1:1s, led interviews and onboarding, and built automation workflows using SQL, BigQuery, APIs, and Zapier. I worked closely with product and engineering to shape roadmap decisions based on user feedback.
+Before that, I spent 7 years at Streak (YC S11) in technical support, where I wrote internal and external documentation, built internal tooling, mentored teammates, ran 1:1s, led new hire onboarding, and developed automation workflows using SQL, BigQuery, Google Apps Script, APIs, and Zapier.
 
-I thrive in early-stage environments working directly with founders, and I love getting hands-on with code.
+I studied software engineering at Launch School, then built Campfire with three other engineers, an open-source deploy preview tool. Here's the case study I authored: https://campfire-previews.github.io
+
+I thrive in early-stage environments working directly with founders, and love getting hands-on with code while helping teams grow and scale.
+
+* LinkedIn: [https://www.linkedin.com/in/westonludeke](https://www.linkedin.com/in/westonludeke)
 
 ### 🧠 Projects
 
@@ -17,6 +21,8 @@ I thrive in early-stage environments working directly with founders, and I love 
 - **[Ragtime](https://github.com/westonludeke/ragtime)** – A minimalist internal RAG chatbot built with JavaScript, Chroma, and OpenAI. Designed to help engineers query technical documentation using natural language.
 
 - **[Kernel AI Job Application Agent](https://github.com/westonludeke/kernel-job-agent)** – AI-powered job application agent that automates the entire job application process. Built using Kernel, Playwright, OpenAI, TypeScript, and Node.
+
+---
 
 ### ✍️ DevRel Content
 
